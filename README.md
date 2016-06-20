@@ -1,2 +1,5 @@
 # hello-world
-first repository to try out my djmilks / dennis.j.milks@raytheon.com
+first repository to try out my djmilks GitHub account
+
+## Stuff
+just walking through the tutorial
